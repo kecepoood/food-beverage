@@ -1,0 +1,309 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #2A2A2A;
+}
+
+header {
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+  padding: 180px 0px 165px;
+}
+
+header .brand-logo img {
+  max-width: 40%;
+}
+
+.navbar-brand img {
+  max-height: 45px;
+}
+
+.bg-brown {
+  background-color: #2A2A2A;
+  height: 72px;
+}
+
+.bg-brown .navbar-nav {
+  background-color: #2A2A2A;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bg-brown .navbar-nav .nav-link {
+  color: #F4F2EC !important;
+  margin-right: 25px;
+}
+
+.bg-brown .navbar-nav .nav-link:hover {
+  color: #FBBC58 !important;
+}
+
+.bg-brown .navbar-nav .active {
+  color: #F94A0E !important;
+}
+
+.bg-brown .btn-login {
+  color: #F4F2EC !important;
+  background-color: #F94A0E;
+  border-radius: 0;
+  max-height: 72px;
+}
+
+.bg-brown .btn-login:hover {
+  background-color: #FBBC58;
+  color: #F4F2EC;
+}
+
+.title h3 {
+  margin-top: 60px;
+}
+
+.title p {
+  margin-top: 35px;
+  max-width: 570px;
+}
+
+.image img {
+  max-width: 75%;
+  margin-top: 35px;
+  -webkit-box-shadow: 0px 0px 10px #3A3A3A;
+          box-shadow: 0px 0px 10px #3A3A3A;
+}
+
+.bg-blue-color {
+  background-color: #095D6A;
+  background-size: cover;
+  margin-top: 60px;
+  padding-top: 50px;
+}
+
+.bg-blue-color .title-bg {
+  color: #F4F2EC;
+  padding-bottom: 80px;
+}
+
+.bg-blue-color .title-bg p {
+  margin-top: 25px;
+  max-width: 570px;
+}
+
+.bg-blue-color .more-space {
+  margin-top: 25px;
+}
+
+.bg-blue-color .card {
+  background-color: #fff;
+  background-size: cover;
+  border-radius: 0;
+  -webkit-box-shadow: 0px 0px 10px #3A3A3A;
+          box-shadow: 0px 0px 10px #3A3A3A;
+  max-width: 260px;
+  margin-bottom: 50px;
+}
+
+.bg-blue-color .space-img img {
+  height: 160px;
+  width: 160px;
+}
+
+.bg-blue-color .space-img .star-name {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.bg-blue-color .space-img .star-name img {
+  height: 15px;
+  width: 15px;
+  margin-right: 3px;
+}
+
+.bg-blue-color .space-img .star-name p {
+  padding-top: 5px;
+}
+
+.bg-blue-color .space-img .star-name .price p {
+  font-size: 24pt;
+  float: right;
+  padding-right: 30px;
+  margin-top: -70px;
+}
+
+.margin-mines {
+  margin-top: -45px;
+}
+
+.margin-mines a {
+  text-decoration: none;
+}
+
+.margin-mines a:hover {
+  -webkit-box-shadow: 0px 0px 10px #F4F2EC;
+          box-shadow: 0px 0px 10px #F4F2EC;
+}
+
+.margin-mines a:hover h3 {
+  color: #FBBC58 !important;
+}
+
+.margin-mines h3 {
+  color: #F4F2EC;
+}
+
+.img-lunch {
+  background-image: url("../images/fnb2.jpg");
+  background-size: cover;
+  border-radius: 7px;
+  -webkit-box-shadow: 0px 0px 10px #3A3A3A;
+          box-shadow: 0px 0px 10px #3A3A3A;
+}
+
+.img-lunch h3 {
+  padding: 25px 10px;
+  color: #F4F2EC;
+}
+
+.img-dinner {
+  background-image: url("../images/fnb2.jpg");
+  background-size: cover;
+  border-radius: 7px;
+  -webkit-box-shadow: 0px 0px 10px #3A3A3A;
+          box-shadow: 0px 0px 10px #3A3A3A;
+}
+
+.img-dinner h3 {
+  padding: 25px 10px;
+  color: #F4F2EC;
+}
+
+.btn-join {
+  background-color: #F94A0E;
+  padding: 8px 20px;
+  color: #F4F2EC !important;
+}
+
+.btn-join:hover {
+  background-color: #FBBC58;
+  color: #F4F2EC;
+}
+
+.bg-black-color {
+  background-color: #2A2A2A;
+  background-size: cover;
+  margin-top: 60px;
+  padding-bottom: 20px;
+}
+
+.bg-black-color h3 {
+  color: #F4F2EC !important;
+  padding-top: 50px;
+}
+
+.bg-black-color p {
+  color: #F4F2EC !important;
+}
+
+.bg-black-color .sosmed {
+  font-size: 24px;
+}
+
+.bg-black-color .sosmed a {
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.promo {
+  margin-top: 40px;
+}
+
+.promo .card {
+  background-color: #2A2A2A;
+  background-size: cover;
+  border-radius: 0;
+  max-width: 550px;
+  -webkit-box-shadow: 0px 0px 10px #3A3A3A;
+          box-shadow: 0px 0px 10px #3A3A3A;
+  margin-bottom: 20px;
+}
+
+.promo .card .img-promo img {
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+}
+
+.promo .card .img-promo p {
+  color: white;
+}
+
+.promo .card .img-promo .star-name img {
+  display: inline;
+}
+
+.promo .card .promo-text img {
+  width: 15px;
+  height: 15px;
+  margin-right: 3px;
+}
+
+.promo .card .promo-text p {
+  color: #F4F2EC;
+}
+
+.promo .card .promo-text .price p {
+  font-size: 24pt;
+}
+
+.bg-header-lunch {
+  background-image: url("../images/fnb2.jpg");
+  background-size: cover;
+}
+
+.bg-header-lunch .title h2 {
+  color: #F4F2EC;
+  padding-top: 70px;
+}
+
+.bg-header-lunch .title p {
+  color: #F4F2EC;
+  padding-bottom: 70px;
+}
+
+.bg-header-dinner {
+  background-image: url("../images/fnb1.jpg");
+  background-size: cover;
+}
+
+.bg-header-dinner .title h2 {
+  color: #F4F2EC;
+  padding-top: 70px;
+}
+
+.bg-header-dinner .title p {
+  color: #F4F2EC;
+  padding-bottom: 70px;
+}
+
+.daftar-menu {
+  margin-left: 20px;
+}
+
+.daftar-menu h3 {
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+
+.price-menu {
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+.price-menu .price p {
+  font-size: 36pt;
+  color: #095D6A !important;
+}
+
+.form {
+  margin-top: 25px;
+  max-width: 600px;
+}
+/*# sourceMappingURL=style.css.map */
